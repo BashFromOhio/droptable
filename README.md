@@ -2,7 +2,7 @@
 
 A free course in **SQL, Python, data analytics, machine learning and AI**, told through the story of Big Face, a kid working shifts at the Grail Room, a fictional rare-sneaker shop in Atlanta.
 
-**Play it:** https://bashfromohio.github.io/droppable/
+**Play it:** https://bashfromohio.github.io/droptable/
 
 - 30 shifts, one lesson each, from "what is data?" to training models in the browser and checking an AI's work
 - A Python lesson before every Python puzzle, plus a Python playground (a small beginner-Python interpreter in plain JavaScript, `minipy.js`)
