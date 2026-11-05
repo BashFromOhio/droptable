@@ -1,0 +1,11 @@
+/* Self-hosted fonts (SIL Open Font License, see OFL.txt). No requests to third-party font servers. */
+@font-face{font-family:"Dela Gothic One";font-style:normal;font-weight:400;font-display:swap;src:url("dela-gothic-one-latin-400-normal.woff2") format("woff2");}
+@font-face{font-family:"Rubik Spray Paint";font-style:normal;font-weight:400;font-display:swap;src:url("rubik-spray-paint-latin-400-normal.woff2") format("woff2");}
+@font-face{font-family:"Figtree";font-style:normal;font-weight:400;font-display:swap;src:url("figtree-latin-400-normal.woff2") format("woff2");}
+@font-face{font-family:"Figtree";font-style:normal;font-weight:500;font-display:swap;src:url("figtree-latin-500-normal.woff2") format("woff2");}
+@font-face{font-family:"Figtree";font-style:normal;font-weight:600;font-display:swap;src:url("figtree-latin-600-normal.woff2") format("woff2");}
+@font-face{font-family:"Figtree";font-style:normal;font-weight:700;font-display:swap;src:url("figtree-latin-700-normal.woff2") format("woff2");}
+@font-face{font-family:"Figtree";font-style:normal;font-weight:800;font-display:swap;src:url("figtree-latin-800-normal.woff2") format("woff2");}
+@font-face{font-family:"Figtree";font-style:italic;font-weight:400;font-display:swap;src:url("figtree-latin-400-italic.woff2") format("woff2");}
+@font-face{font-family:"JetBrains Mono";font-style:normal;font-weight:400;font-display:swap;src:url("jetbrains-mono-latin-400-normal.woff2") format("woff2");}
+@font-face{font-family:"JetBrains Mono";font-style:normal;font-weight:600;font-display:swap;src:url("jetbrains-mono-latin-600-normal.woff2") format("woff2");}
